@@ -94,5 +94,8 @@ friends: [
     },{
         title: "OpenGPU",
         href: "http://www.opengpu.org/forum.php"
+    },{
+        title: "GameCores",
+        href: "https://www.g-cores.com"
     }
 ]
